@@ -1,0 +1,32 @@
+
+Linux Kernel Version
+	by Monk
+
+0. versions
+1. licence
+2. warnings
+3. install on PHP/HTTPD
+
+---
+
+0.1. first version : simple, but won't handle 2.x releases (i think)
+0.2. second (this) version : handles 2.x releasese, 1.0 and 2.0 releases,
+	and handles also 2.6.xx.yyy releases
+
+1. licence : triple simple concatenated licence
+	use it for the good
+	no warranty, but with best wishes
+	feel free to use it as you wish
+
+2. warnings : if you want to put it on a heavy multitask http server,
+	work on the code to handle those 3 files, with C/PHP style
+	functions like mktemp/mkstemp
+
+3. install html2text from python repository found on the internet
+
+
+Have a great day !
+Monk
+
+	
+
